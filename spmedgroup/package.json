@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@react-native-community/async-storage": "^1.4.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "link": "^0.1.5",
     "react": "^16.8.3",
     "react-async-script-loader": "^0.3.0",
